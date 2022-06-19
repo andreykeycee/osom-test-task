@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Bitcoin",
+    "amount": "0.0025",
+    "amountEur": "117.35",
+    "symbol": "btc"
+  },
+  {
+    "name": "Ethereum",
+    "amount": "0.03",
+    "amountEur": "94",
+    "symbol": "eth"
+  },
+  {
+    "name": "Cardano",
+    "amount": "200",
+    "amountEur": "400",
+    "symbol": "ada"
+  },
+  {
+    "name": "Solana",
+    "amount": "5",
+    "amountEur": "681",
+    "symbol": "sol"
+  },
+  {
+    "name": "USDT",
+    "amount": "57",
+    "amountEur": "47",
+    "symbol": "usdt"
+  },
+  {
+    "name": "USDC",
+    "amount": "98",
+    "amountEur": "76",
+    "symbol": "usdc"
+  },
+  {
+    "name": "BNB",
+    "amount": "1.7",
+    "amountEur": "646.7",
+    "symbol": "btc"
+  },
+  {
+    "name": "XRP",
+    "amount": "24",
+    "amountEur": "22.36",
+    "symbol": "xrp"
+  },
+  {
+    "name": "Polkadot",
+    "amount": "3",
+    "amountEur": "88.31",
+    "symbol": "dot"
+  }
+]
